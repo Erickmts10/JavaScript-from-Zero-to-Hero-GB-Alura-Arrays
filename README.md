@@ -22,21 +22,21 @@ Exercícios desenvolvidos com a proposta de praticar e manipular o comportamento
 <h5>Finalizado:heavy_check_mark:</h5>
 
 <h3>:bulb:Habilidades Desenvolvidas<h3>
-<h5>.Push:heavy_check_mark:</h5>
-<h5>.Pop:heavy_check_mark:</h5>
-<h5>.length:heavy_check_mark:</h5>
-<h5>.Slace:heavy_check_mark:</h5>
-<h5>.Splace:heavy_check_mark:</h5>
-<h5>array.MultiDimesional:heavy_check_mark:</h5>
-<h5>.Concat:heavy_check_mark:</h5>
-<h5>.includes:heavy_check_mark:</h5>
-<h5>.for:heavy_check_mark:</h5>
-<h5>forAninhado:heavy_check_mark:</h5>
-<h5>.forOf:heavy_check_mark:</h5>
-<h5>.forEach:heavy_check_mark:</h5>
-<h5>callBack:heavy_check_mark:</h5>
-<h5>.map:heavy_check_mark:</h5>
-<h5>.mapArrow:heavy_check_mark:</h5>
+<h5>.Push :heavy_check_mark:</h5>
+<h5>.Pop :heavy_check_mark:</h5>
+<h5>.length :heavy_check_mark:</h5>
+<h5>.Slace :heavy_check_mark:</h5>
+<h5>.Splace :heavy_check_mark:</h5>
+<h5>array.MultiDimesional :heavy_check_mark:</h5>
+<h5>.Concat :heavy_check_mark:</h5>
+<h5>.includes :heavy_check_mark:</h5>
+<h5>.for :heavy_check_mark:</h5>
+<h5>forAninhado :heavy_check_mark:</h5>
+<h5>.forOf :heavy_check_mark:</h5>
+<h5>.forEach :heavy_check_mark:</h5>
+<h5>callBack :heavy_check_mark:</h5>
+<h5>.map :heavy_check_mark:</h5>
+<h5>.mapArrow :heavy_check_mark:</h5>
 <h5>.mapCallback :heavy_check_mark:</h5>
 <h5>.filter :heavy_check_mark:</h5>
 <h5>.reducer :heavy_check_mark:</h5>
